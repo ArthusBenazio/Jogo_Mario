@@ -1,9 +1,259 @@
-<mxfile host="app.diagrams.net" modified="2025-02-25T11:18:00.612Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36" version="21.3.2" etag="HlG9VeYvsAeU98X7m17w" type="github">
+<mxfile host="app.diagrams.net" modified="2025-02-25T12:51:13.728Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36" etag="7WCMDr1vBlHo_lOf4JGZ" version="21.3.2" type="github">
   <diagram name="Página-1" id="ncFZOx4G1eFCB6elq_Ja">
-    <mxGraphModel>
+    <mxGraphModel dx="989" dy="538" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="2336" pageHeight="1654" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
+        <mxCell id="add4JjNv4R6pKVE-852J-8" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="add4JjNv4R6pKVE-852J-1" target="add4JjNv4R6pKVE-852J-7">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="add4JjNv4R6pKVE-852J-12" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0.5;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="1" source="add4JjNv4R6pKVE-852J-1" target="add4JjNv4R6pKVE-852J-11">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="130" y="70" />
+              <mxPoint x="130" y="130" />
+              <mxPoint x="245" y="130" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="add4JjNv4R6pKVE-852J-1" value="Owner" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;" vertex="1" parent="1">
+          <mxGeometry x="50" y="40" width="30" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="add4JjNv4R6pKVE-852J-35" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="add4JjNv4R6pKVE-852J-2" target="add4JjNv4R6pKVE-852J-11">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="add4JjNv4R6pKVE-852J-2" value="Admin" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;" vertex="1" parent="1">
+          <mxGeometry x="50" y="150" width="30" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="add4JjNv4R6pKVE-852J-31" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="add4JjNv4R6pKVE-852J-3" target="add4JjNv4R6pKVE-852J-30">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="add4JjNv4R6pKVE-852J-3" value="Team" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;" vertex="1" parent="1">
+          <mxGeometry x="50" y="270" width="30" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="add4JjNv4R6pKVE-852J-36" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="add4JjNv4R6pKVE-852J-4" target="add4JjNv4R6pKVE-852J-34">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="add4JjNv4R6pKVE-852J-4" value="Client" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;" vertex="1" parent="1">
+          <mxGeometry x="50" y="390" width="30" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="add4JjNv4R6pKVE-852J-22" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="add4JjNv4R6pKVE-852J-7" target="add4JjNv4R6pKVE-852J-14">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="add4JjNv4R6pKVE-852J-7" value="Criar conta no app!" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="190" y="25" width="160" height="90" as="geometry" />
+        </mxCell>
+        <mxCell id="add4JjNv4R6pKVE-852J-26" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="add4JjNv4R6pKVE-852J-9" target="add4JjNv4R6pKVE-852J-25">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="add4JjNv4R6pKVE-852J-9" value="Convida e excluir outros users e definir sua role" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="820" y="22.5" width="130" height="95" as="geometry" />
+        </mxCell>
+        <mxCell id="add4JjNv4R6pKVE-852J-32" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="add4JjNv4R6pKVE-852J-11" target="add4JjNv4R6pKVE-852J-27">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="add4JjNv4R6pKVE-852J-11" value="Permissão de criar, deletar e alterar obras e diarios" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="160" y="140" width="150" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="add4JjNv4R6pKVE-852J-17" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="add4JjNv4R6pKVE-852J-14" target="add4JjNv4R6pKVE-852J-16">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="add4JjNv4R6pKVE-852J-14" value="Criar, editar e excluir obra!" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="415" y="25" width="170" height="90" as="geometry" />
+        </mxCell>
+        <mxCell id="add4JjNv4R6pKVE-852J-23" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="add4JjNv4R6pKVE-852J-16" target="add4JjNv4R6pKVE-852J-9">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="add4JjNv4R6pKVE-852J-16" value="Criar, alterar e excluir Diário de Obra!" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="630" y="30" width="140" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="add4JjNv4R6pKVE-852J-39" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="add4JjNv4R6pKVE-852J-25" target="add4JjNv4R6pKVE-852J-37">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="add4JjNv4R6pKVE-852J-25" value="Visualizar relatórios" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1000" y="30" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="add4JjNv4R6pKVE-852J-33" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="add4JjNv4R6pKVE-852J-27" target="add4JjNv4R6pKVE-852J-29">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="add4JjNv4R6pKVE-852J-27" value="Cadastrar, alterar e excluir funcionários" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="390" y="140" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="add4JjNv4R6pKVE-852J-29" value="Cadastrar, alterar e excluir equipamentos" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="600" y="140" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="add4JjNv4R6pKVE-852J-30" value="Permissão de criar diario de obras" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="150" y="260" width="160" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="add4JjNv4R6pKVE-852J-34" value="Permissão de visualizar determinados relatórios de uma obra" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="160" y="380" width="170" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="add4JjNv4R6pKVE-852J-37" value="Responsável pelos pagamentos" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1000" y="160" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="add4JjNv4R6pKVE-852J-43" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="add4JjNv4R6pKVE-852J-40" target="add4JjNv4R6pKVE-852J-41">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="80" y="580" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="add4JjNv4R6pKVE-852J-44" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="add4JjNv4R6pKVE-852J-40" target="add4JjNv4R6pKVE-852J-42">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="80" y="700" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="add4JjNv4R6pKVE-852J-40" value="Criação de usuário (User)" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="20" y="610" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="add4JjNv4R6pKVE-852J-46" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="add4JjNv4R6pKVE-852J-41" target="add4JjNv4R6pKVE-852J-45">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="420" y="570" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="400" y="580" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="add4JjNv4R6pKVE-852J-41" value="Pessoa física" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="160" y="550" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="add4JjNv4R6pKVE-852J-47" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" source="add4JjNv4R6pKVE-852J-42" target="add4JjNv4R6pKVE-852J-45">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="add4JjNv4R6pKVE-852J-42" value="Pessoa jurídica" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="160" y="670" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="add4JjNv4R6pKVE-852J-49" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="add4JjNv4R6pKVE-852J-45" target="add4JjNv4R6pKVE-852J-48">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="add4JjNv4R6pKVE-852J-45" value="&lt;font style=&quot;font-size: 9px;&quot;&gt;Ambos criam uma empresa, em caso de pessoa fisíca a empresa vai ter o mesmo nome da pessoa&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="340" y="610" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="add4JjNv4R6pKVE-852J-51" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="add4JjNv4R6pKVE-852J-48" target="add4JjNv4R6pKVE-852J-50">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="add4JjNv4R6pKVE-852J-48" value="Dentro de cada empresa vão ser definida a role dos participantes" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="510" y="610" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="add4JjNv4R6pKVE-852J-53" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="add4JjNv4R6pKVE-852J-50" target="add4JjNv4R6pKVE-852J-52">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="add4JjNv4R6pKVE-852J-50" value="&lt;font style=&quot;font-size: 11px;&quot;&gt;Tanto pessoa física quanto jurídica vão ter acesso as mesmas funcionalidades&amp;nbsp;&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="670" y="610" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="add4JjNv4R6pKVE-852J-55" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="add4JjNv4R6pKVE-852J-52" target="add4JjNv4R6pKVE-852J-54">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="add4JjNv4R6pKVE-852J-52" value="&lt;font style=&quot;font-size: 10px;&quot;&gt;O criador da empresa vai ser definido na tabela &quot;Company&quot; como &quot;Owner&quot; (Proprietário)&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="830" y="610" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="add4JjNv4R6pKVE-852J-54" value="Os pagamentos serão vinculados ao email do owner" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="990" y="610" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="add4JjNv4R6pKVE-852J-58" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="add4JjNv4R6pKVE-852J-56" target="add4JjNv4R6pKVE-852J-57">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="add4JjNv4R6pKVE-852J-56" value="&lt;div style=&quot;&quot;&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;Obras &lt;br&gt;(Projects)&lt;/span&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;align=center;" vertex="1" parent="1">
+          <mxGeometry x="40" y="810" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="add4JjNv4R6pKVE-852J-60" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="add4JjNv4R6pKVE-852J-57" target="add4JjNv4R6pKVE-852J-59">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="add4JjNv4R6pKVE-852J-57" value="Obras só poderão ser criadas pelo owner e os usuários definidos como admin" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="200" y="810" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="add4JjNv4R6pKVE-852J-62" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="add4JjNv4R6pKVE-852J-59" target="add4JjNv4R6pKVE-852J-61">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="add4JjNv4R6pKVE-852J-59" value="Exclusão e edição dessas obras seguem a mesma regra" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="360" y="810" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="add4JjNv4R6pKVE-852J-64" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="add4JjNv4R6pKVE-852J-61" target="add4JjNv4R6pKVE-852J-63">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="add4JjNv4R6pKVE-852J-61" value="&lt;font style=&quot;font-size: 10px;&quot;&gt;Usuários definidos como Team e Client não tem o poder de criar, alterar ou excluir obras&amp;nbsp;&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="520" y="810" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="add4JjNv4R6pKVE-852J-66" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="add4JjNv4R6pKVE-852J-63" target="add4JjNv4R6pKVE-852J-65">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="add4JjNv4R6pKVE-852J-63" value="Team podem visualizar as obras" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="680" y="810" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="add4JjNv4R6pKVE-852J-65" value="&lt;font style=&quot;font-size: 10px;&quot;&gt;Client não conseguem visualizar obras, apenas relátorios das obras designadas&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="840" y="810" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="add4JjNv4R6pKVE-852J-69" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="add4JjNv4R6pKVE-852J-67" target="add4JjNv4R6pKVE-852J-68">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="add4JjNv4R6pKVE-852J-67" value="&lt;font style=&quot;font-size: 12px;&quot;&gt;Diário de Obras (Construction Log)&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="40" y="890" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="add4JjNv4R6pKVE-852J-71" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="add4JjNv4R6pKVE-852J-68" target="add4JjNv4R6pKVE-852J-70">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="add4JjNv4R6pKVE-852J-68" value="Diarios só poderão ser criados por Owner e Admin" style="whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="1">
+          <mxGeometry x="200" y="890" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="add4JjNv4R6pKVE-852J-73" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="add4JjNv4R6pKVE-852J-70" target="add4JjNv4R6pKVE-852J-72">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="add4JjNv4R6pKVE-852J-70" value="Exclusão e edição de diarios seguem a mesma regra" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="360" y="890" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="add4JjNv4R6pKVE-852J-75" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="add4JjNv4R6pKVE-852J-72" target="add4JjNv4R6pKVE-852J-74">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="add4JjNv4R6pKVE-852J-72" value="&lt;font style=&quot;font-size: 11px;&quot;&gt;Team podem criar e editar diarios&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="520" y="890" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="add4JjNv4R6pKVE-852J-74" value="Client não tem permisão de visualizar, criar, editar ou excluir" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="680" y="890" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="add4JjNv4R6pKVE-852J-80" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="add4JjNv4R6pKVE-852J-76" target="add4JjNv4R6pKVE-852J-77">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="add4JjNv4R6pKVE-852J-76" value="Funcionários (Employees)" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="40" y="970" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="add4JjNv4R6pKVE-852J-79" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="add4JjNv4R6pKVE-852J-77" target="add4JjNv4R6pKVE-852J-78">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="add4JjNv4R6pKVE-852J-77" value="Podem ser criados por owner e admin" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="200" y="970" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="add4JjNv4R6pKVE-852J-82" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="add4JjNv4R6pKVE-852J-78" target="add4JjNv4R6pKVE-852J-81">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="add4JjNv4R6pKVE-852J-78" value="Exclusão e edição de funcionários seguem a mesma regra" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="360" y="970" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="add4JjNv4R6pKVE-852J-81" value="Team e client não visualizam, criam, editam ou excluim funcionários" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="520" y="970" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="add4JjNv4R6pKVE-852J-83" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="add4JjNv4R6pKVE-852J-84" target="add4JjNv4R6pKVE-852J-86">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="add4JjNv4R6pKVE-852J-84" value="Equipamentos (Equipments)" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="40" y="1050" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="add4JjNv4R6pKVE-852J-85" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="add4JjNv4R6pKVE-852J-86" target="add4JjNv4R6pKVE-852J-88">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="add4JjNv4R6pKVE-852J-86" value="Podem ser criados por owner e admin" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="200" y="1050" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="add4JjNv4R6pKVE-852J-87" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="add4JjNv4R6pKVE-852J-88" target="add4JjNv4R6pKVE-852J-89">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="add4JjNv4R6pKVE-852J-88" value="Exclusão e edição de equipamentos seguem a mesma regra" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="360" y="1050" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="add4JjNv4R6pKVE-852J-89" value="&lt;font style=&quot;font-size: 11px;&quot;&gt;Team e client não visualizam, criam, editam ou excluem equipamentos&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="520" y="1050" width="120" height="60" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
