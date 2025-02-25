@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2025-02-25T12:51:13.728Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36" etag="7WCMDr1vBlHo_lOf4JGZ" version="21.3.2" type="github">
+<mxfile host="app.diagrams.net" modified="2025-02-25T13:59:17.401Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36" etag="peW7bImLMI2uQUKjFKnD" version="21.3.2" type="github">
   <diagram name="Página-1" id="ncFZOx4G1eFCB6elq_Ja">
     <mxGraphModel dx="989" dy="538" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="2336" pageHeight="1654" math="0" shadow="0">
       <root>
@@ -230,7 +230,7 @@
         <mxCell id="add4JjNv4R6pKVE-852J-78" value="Exclusão e edição de funcionários seguem a mesma regra" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="360" y="970" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="add4JjNv4R6pKVE-852J-81" value="Team e client não visualizam, criam, editam ou excluim funcionários" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="add4JjNv4R6pKVE-852J-81" value="Team e client não visualizam, criam, editam ou excluem funcionários" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="520" y="970" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="add4JjNv4R6pKVE-852J-83" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="add4JjNv4R6pKVE-852J-84" target="add4JjNv4R6pKVE-852J-86">
@@ -253,6 +253,42 @@
         </mxCell>
         <mxCell id="add4JjNv4R6pKVE-852J-89" value="&lt;font style=&quot;font-size: 11px;&quot;&gt;Team e client não visualizam, criam, editam ou excluem equipamentos&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="520" y="1050" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="add4JjNv4R6pKVE-852J-95" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="add4JjNv4R6pKVE-852J-93" target="add4JjNv4R6pKVE-852J-94">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="add4JjNv4R6pKVE-852J-93" value="Relatórios: Folha de pagamento funcionários" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="40" y="1130" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="add4JjNv4R6pKVE-852J-97" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="add4JjNv4R6pKVE-852J-94" target="add4JjNv4R6pKVE-852J-96">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="add4JjNv4R6pKVE-852J-94" value="&lt;font style=&quot;font-size: 8px;&quot;&gt;Baseado nos diários de obras será puxado a quantidade de dias trabalhados e quantidade de diárias&amp;nbsp;&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="200" y="1130" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="add4JjNv4R6pKVE-852J-104" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="add4JjNv4R6pKVE-852J-96" target="add4JjNv4R6pKVE-852J-103">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="add4JjNv4R6pKVE-852J-96" value="&lt;font style=&quot;font-size: 8px;&quot;&gt;Deve ser escolhido o período e através de um check box selecionar informando que foi pago por aquele período&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="360" y="1130" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="add4JjNv4R6pKVE-852J-106" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="add4JjNv4R6pKVE-852J-98" target="add4JjNv4R6pKVE-852J-101">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="add4JjNv4R6pKVE-852J-98" value="&lt;font style=&quot;font-size: 10px;&quot;&gt;Junto as informações de diárias do funcionário vai ter os dados para pix do mesmo caso informado&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="680" y="1130" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="add4JjNv4R6pKVE-852J-100" value="Relatórios: Díário de Obras&amp;nbsp;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="40" y="1210" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="add4JjNv4R6pKVE-852J-101" value="Podem ser visualizados e editados por owner e admin" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="840" y="1130" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="add4JjNv4R6pKVE-852J-105" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="add4JjNv4R6pKVE-852J-103" target="add4JjNv4R6pKVE-852J-98">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="add4JjNv4R6pKVE-852J-103" value="Pode ser exportada a folha de pagamento conforme período selecionado" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="520" y="1130" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
